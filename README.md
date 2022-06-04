@@ -7,7 +7,7 @@
 #### Miembros del equipo :man_technologist: :woman_technologist:
 
 - Francisco Gutierrez
--
+- Facundo Ibarra
 -
 -
 -
