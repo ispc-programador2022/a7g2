@@ -1,5 +1,5 @@
 
-# Tecnicatura Superior en Ciecia de Datos e Inteligencia Artificial
+# Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
 ## Proyecto Integrador
 
