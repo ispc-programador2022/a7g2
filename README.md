@@ -12,7 +12,7 @@
 - Jonatan N Lapido
 - Juan Jure
 - Agustina Inorio
--Marcela Rosana Inda
+- Marcela Rosana Inda
 -
 -
 -
