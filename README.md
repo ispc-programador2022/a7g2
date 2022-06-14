@@ -13,7 +13,7 @@
 - Juan Jure
 - Agustina Inorio
 - Marcela Rosana Inda
--
+- Lescano Mariela Cristina
 -
 -
 -
