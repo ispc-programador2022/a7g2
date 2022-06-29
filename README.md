@@ -9,17 +9,10 @@
 - Francisco Gutierrez
 - Facundo Ibarra
 -	Hillebrand Adrian E
-- Jonatan N Lapido
 - Juan Jure
 - Agustina Inorio
 - Marcela Rosana Inda
 - Lescano Mariela Cristina
-Micaela Juarez
--
--
--
--
--
--
+- Tomas Jullier
 
 <img align="right" width="" height="150" src="https://drive.google.com/uc?export=view&id=19GuUwmNGO2tiDxQCsN5BJCx-qnw7mErQ">
